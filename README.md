@@ -67,7 +67,7 @@ print((texto + " ") * numero)
 ## 🚀 Como Executar
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/algoritmos-python-copilot-codespaces.git
+   git clone https://github.com/RP-Lago/algoritmos-python-copilot-codespaces.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
